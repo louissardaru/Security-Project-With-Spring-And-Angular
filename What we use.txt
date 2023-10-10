@@ -1,0 +1,12 @@
+Java
+Spring Boot
+Angular
+Spring Security
+REST API
+TypeScript
+JavaScript
+HTML
+CSS
+Node.js
+Maven
+JSON
