@@ -20,7 +20,7 @@ How to run:
 
 Home before login or after logout
 
-![Home before login or after logout](https://github.com/louissardaru/Security-Project-With-Spring-And-Angular/assets/119102199/4ad8bcd2-7704-4069-9059-d613d5ee1bb1)
+![Home before login or after logout](https://github.com/louissardaru/Security-Project-With-Spring-And-Angular/assets/119102199/153a6ae2-76be-487e-929d-741ec84f07c9)
 
 Login page
 
